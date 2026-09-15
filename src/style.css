@@ -69,3 +69,11 @@ body {
   color: #9CA3AF;
   max-width: 30rem;
 }
+
+.contenido-principal{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #FFFFFF;
+}
