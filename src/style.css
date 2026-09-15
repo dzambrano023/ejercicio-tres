@@ -61,3 +61,11 @@ body {
   color: #A8B2C4;
   margin-bottom: 1.6rem;
 }
+
+.descripcion {
+  font-size: 1.05rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #9CA3AF;
+  max-width: 30rem;
+}
