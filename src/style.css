@@ -86,3 +86,20 @@ body {
   padding: 0 6%;
   border-bottom: 1px solid #E5E7EB;
 }
+
+.barra-navegacion {
+  display: flex;
+  flex-direction: row;
+  gap: 2.75rem;
+}
+
+.barra-navegacion a {
+  text-decoration: none;
+  font-size: 1.15rem;
+  color: #6B7280;
+}
+
+.barra-navegacion a.active {
+  color: #1A1A1A;
+  font-weight: 600;
+}
