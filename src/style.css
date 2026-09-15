@@ -23,3 +23,16 @@ body {
   flex-direction: column;
   background-color: #111111;
 }
+
+.foto-principal {
+  width: 100%;
+  height: 60%;
+  overflow: hidden;
+}
+
+.foto-principal img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
